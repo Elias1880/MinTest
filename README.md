@@ -2,3 +2,6 @@
 ELIAS
 
 ## Lokalt
+
+
+## kommer fra min macbook github
